@@ -80,6 +80,22 @@ Card KPIs
 State Map visualization**
 
 
+**10 Conclusion of Bank loan Power BI Project**
+
+**This Financial Loan Analytics Dashboard helps organizations gain deep insights into borrower behaviour, income patterns, loan risk categories, and repayment performance.
+It provides actionable intelligence for:**
+
+1.Better loan approval decisions
+
+2.Identifying default risks early
+
+3.Improving revenue predictability
+
+4.Enhancing customer profiling
+
+**This project demonstrates strong skills in Power BI, DAX, data modeling, and financial data analysis  making it a valuable addition to your portfolio.**
+
+
 
 
 
